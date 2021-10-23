@@ -6,6 +6,6 @@ See also on the website of the Federal Computer Science Competition:
 
 [Tasks](https://bwinf.de/fileadmin/bundeswettbewerb/39/Bundeswettbewerb-Aufgabenblatt.pdf)
 
-Simplified version: https://bwinf.de/fileadmin/bundeswettbewerb/39/Bundeswettbewerb_391-vereinfacht.pdf
+[Simplified version](https://bwinf.de/fileadmin/bundeswettbewerb/39/Bundeswettbewerb_391-vereinfacht.pdf)
 
-Proposed solution: https://bwinf.de/fileadmin/bundeswettbewerb/39/loesungshinweise391.pdf
+[Proposed solution](https://bwinf.de/fileadmin/bundeswettbewerb/39/loesungshinweise391.pdf)
