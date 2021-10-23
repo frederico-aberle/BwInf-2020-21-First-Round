@@ -4,7 +4,7 @@ My solutions to the tasks of the 39th Federal Computer Science Competition of th
 
 See also on the website of the Federal Computer Science Competition:
 
-Tasks: https://bwinf.de/fileadmin/bundeswettbewerb/39/Bundeswettbewerb-Aufgabenblatt.pdf
+[Tasks] (https://bwinf.de/fileadmin/bundeswettbewerb/39/Bundeswettbewerb-Aufgabenblatt.pdf)
 
 Simplified version: https://bwinf.de/fileadmin/bundeswettbewerb/39/Bundeswettbewerb_391-vereinfacht.pdf
 
