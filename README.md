@@ -1,4 +1,4 @@
-# BwInf-2020-21-erste-Runde
+# BwInf-2020-21-First-Round
 My solutions to the tasks of the 39th Federal Computer Science Competition of the first round.
 
 
